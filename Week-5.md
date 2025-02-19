@@ -1,2 +1,2 @@
-#Week 5
+# Week 5
 In our fifth week we learnt about more commands ranging from the pwd command which allowed us to get the full path of the current working directory and cat command which allowed us to view files, to commands like grep which allowed us to find specific things inside files. We also learnt how to enter and save text in desired files. Lastly, we learnt about the concept of a superuser, superuser being a priviledged account giving the user complete control over the system and linked systems.
