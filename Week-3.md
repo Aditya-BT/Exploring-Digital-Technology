@@ -1,0 +1,2 @@
+# Week 3
+In our third week we continued learning about the parts of the computer moving onto more intermediate parts like the address line and data line and their uses. Here, we learnt that the text we typed using the keyboard was being converted into binary , how the address line transported this binary input data into the motherboard and lastly, how the motherboard processed this data providing us with output data which is carried back using the data line and converted back to text we understand. Finally, we also had a quiz on binary arithmetic. 
