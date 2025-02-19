@@ -1,0 +1,2 @@
+# Week 1
+In our first week we started with an outdoor assignment where we were asked to find a few cases where our campus used technology, technology in this case being anything which made our lives easier. We did so in groups of four where we realised that technology was being used in one form or another everywhere around us. Next, we were asked to find out how mail merge worked, in the process also understading the importance of mail merge and its use cases. Finally, we also learnt how to convert natural numbers into its binary counterparts and viceversa. 
