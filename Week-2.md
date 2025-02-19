@@ -1,0 +1,2 @@
+# Week 2
+In our second week we continued with binary digits conversions but expanded onto negative numbers too, to do so we learnt the concepts of 1's complement and 2's complement. Next, we proceeded into binary arithmetic, in the process understanding binary addition and subtraction. Lastly, we learnt about the basic parts of a computer, ranging from the Control Processing Unit (CPU) to data storage units like the older Hard Disk Drives (HDDs) and newer Solid State Drives (SSDs). 
