@@ -1,0 +1,1 @@
+In this final tenth week, we had our final quiz and this is the same week we started working on our group repositories for our final presentation projects. Lastly, I just wanted to add that I enjoyed this course as I was able to learn a lot more about the various aspects and use cases of digital technology.
