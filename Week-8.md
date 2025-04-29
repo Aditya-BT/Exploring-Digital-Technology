@@ -1,0 +1,2 @@
+In this eight week we had a guest lecturer from our campus teach us how to access Github from our powershell and push files from the same to our necessary repositories, we also learned how to edit such files if we the 
+need rises. We also understood the importance of such a process as in the future we would need to know how to push files if we were working on any project collaboratively with a large group of people.
