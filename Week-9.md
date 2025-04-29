@@ -1,0 +1,1 @@
+In this ninth week we had a quiz and our final guest lecture on How Neural Networks Work. Here we understood intuitively how a neural networks works and how digital logic and truth tables are used to contol such complex processes. We also used a fun website called playground.tensorflow.org which we used to understand the innerworkings of a simple neural network.
